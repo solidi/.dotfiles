@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "editor.renderWhitespace": "all"
+}
